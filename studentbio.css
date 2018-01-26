@@ -1,2 +1,17 @@
-body {background-color: silver;
+body{
+    background-color:aliceblue ;
+    
+}
+
+h1{ 
+    background-color: white;
+    text-align: -webkit-center;
+    font-size: 80px;
+    font-family: inherit;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 40px;
+    text-decoration: underline;
 }
